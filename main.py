@@ -13,23 +13,6 @@ height = 445
 BG=pygame.image.load("picture/Background.png")
 smanjena_slika = pygame.transform.scale(BG, (828, 445))
 
-class buttonGroup():
-    def __init__(self):
-        self.buttons = []
-
-class buttonC():
-    def __init__(self,parent):
-        self.parent = parent
-        self.selected = False
-
-    def select(self):
-        for x in self.parent.buttons: x.selected = False
-        self.selected = True
-
-    def draw(self):
-        if self.selected: ...
-        else: ...
-
 class Button:
     def __init__(self, txt, pos,dim=None):
         self.text = txt
