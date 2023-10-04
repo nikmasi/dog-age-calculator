@@ -18,18 +18,16 @@ Python main.py
 ### Screenshots
 
 1.
-![image](https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/92533b7e-0373-4a5f-b492-1f3300199b9c)
+<img src="https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/92533b7e-0373-4a5f-b492-1f3300199b9c0" width="828" height="445">
 
-<img src="https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/92533b7e-0373-4a5f-b492-1f3300199b9c0" width="300" height="200">
+2.
+<img src="https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/09694400-122f-421a-8e52-8e864f673209" width="828" height="445">
 
 3.
-![image](https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/09694400-122f-421a-8e52-8e864f673209)
+<img src="https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/daf45467-0e17-43ff-adda-8c0e4500efec" width="828" height="445">
 
 4.
-![image](https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/daf45467-0e17-43ff-adda-8c0e4500efec)
-
-5.
-![image](https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/b06b61fc-a820-4573-b465-09dae7289d90)
+<img src="https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/b06b61fc-a820-4573-b465-09dae7289d90" width="828" height="445">
 
 ### References
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fexpert-advice%2Fhealth%2Fhow-to-calculate-dog-years-to-human-years%2F&psig=AOvVaw0i8es-sGEv0tdGN3wpWqTW&ust=1696539563305000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCa28Kk3YEDFQAAAAAdAAAAABAD
