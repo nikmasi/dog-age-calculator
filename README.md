@@ -1,8 +1,6 @@
 # Dog-Age-Calculator
 Dog age calculator project in pygame.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fexpert-advice%2Fhealth%2Fhow-to-calculate-dog-years-to-human-years%2F&psig=AOvVaw0i8es-sGEv0tdGN3wpWqTW&ust=1696539563305000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCa28Kk3YEDFQAAAAAdAAAAABAD
-
 ### Installing
 Download the Python 3 installer package from the official website and install it, if not installed previously.
 
@@ -30,3 +28,6 @@ Python main.py
 
 4.
 ![image](https://github.com/nikmasi/Dog-Age-Calculator/assets/138830925/b06b61fc-a820-4573-b465-09dae7289d90)
+
+### References
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fexpert-advice%2Fhealth%2Fhow-to-calculate-dog-years-to-human-years%2F&psig=AOvVaw0i8es-sGEv0tdGN3wpWqTW&ust=1696539563305000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCa28Kk3YEDFQAAAAAdAAAAABAD
